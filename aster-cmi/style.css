@@ -9,7 +9,8 @@ body {
 }
 .banner-main {
     background-image: url("images/Banner_mage.png");
-    /* height: 541px; */
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 .banner-main .row {
     justify-content: space-between;
